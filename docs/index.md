@@ -9,30 +9,30 @@ Referensi: [ojk.go.id](https://ojk.go.id/id/kanal/iknb/financial-technology/Page
 
 |No |Nama                     |Website                          |Nama Perusahaan                         |Surat Tanda Berizin/Terdaftar|Tanggal         |Jenis Usaha |
 |---|-------------------------|---------------------------------|----------------------------------------|-----------------------------|----------------|------------|
-|1  |Danamas                  |https://p2p.danamas.co.id        |PT Pasar Dana Pinjaman                  |KEP-49/D.05/2017             |06 Juli 2017    |Konvensional|
-|2  |investree                |https://www.investree.id         |PT Investree Radhika Jaya               |KEP-45/D.05/2019             |13 Mei 2019     |Konvensional|
-|3  |amartha                  |https://amartha.com              |PT Amartha Mikro Fintek                 |KEP-46/D.05/2019             |13 Mei 2019     |Konvensional|
-|4  |DOMPET Kilat             |https://www.dompetkilat.co.id    |PT Indo Fin Tek                         |KEP-47/D.05/2019             |13 Mei 2019     |Konvensional|
-|5  |Boost                    |https://myboost.co.id            |PT Creative Mobile Adventure            |KEP-48/D.05/2019             |13 Mei 2019     |Konvensional|
-|6  |TOKO MODAL               |https://www.tokomodal.co.id      |PT Toko Modal Mitra Usaha               |KEP-49/D.05/2019             |24 Mei 2019     |Konvensional|
-|7  |modalku                  |https://modalku.co.id            |PT Mitrausaha Indonesia Grup            |KEP-81/D.05/2019             |30-Sep-19       |Konvensional|
-|8  |KTA KILAT                |http://www.pendanaan.com         |PT Pendanaan Teknologi Nusa             |KEP-82/D.05/2019             |30-Sep-19       |Konvensional|
-|9  |Kredit Pintar            |http://kreditpintar.com          |PT Kredit Pintar Indonesia              |KEP-83/D.05/2019             |30-Sep-19       |Konvensional|
-|10 |Maucash                  |http://maucash.id                |PT Astra Welab Digital Arta             |KEP-84/D.05/2019             |30-Sep-19       |Konvensional|
-|11 |Finmas                   |https://www.finmas.co.id         |PT Oriente Mas Sejahtera                |KEP-85/D.05/2019             |30-Sep-19       |Konvensional|
-|12 |KlikA2C                  |https://www.klika2c.co.id        |PT Aman Cermat Cepat                    |KEP-87/D.05/2019             |30-Sep-19       |Konvensional|
-|13 |Akseleran                |https://www.akseleran.co.id      |PT Akseleran Keuangan Inklusif Indonesia|KEP-122/D.05/2019            |13 Desember 2019|Konvensional|
-|14 |Ammana.id                |https://ammana.id                |PT Ammana Fintek Syariah                |KEP-123/D.05/2019            |13 Desember 2019|Syariah     |
-|15 |PinjamanGO               |https://www.pinjamango.co.id     |PT Dana Pinjaman Inklusif               |KEP-124/D.05/2019            |13 Desember 2019|Konvensional|
-|16 |KoinP2P                  |https://koinp2p.com              |PT Lunaria Annua Teknologi              |KEP-125/D.05/2019            |13 Desember 2019|Konvensional|
-|17 |pohondana                |http://pohondana.id              |PT Pohon Dana Indonesia                 |KEP-126/D.05/2019            |13 Desember 2019|Konvensional|
-|18 |MEKAR                    |https://mekar.id                 |PT Mekar Investama Teknologi            |KEP-127/D.05/2019            |13 Desember 2019|Konvensional|
+|1  |[Danamas](./danamas/)    |p2p.danamas.co.id        |PT Pasar Dana Pinjaman                  |KEP-49/D.05/2017             |06 Juli 2017    |Konvensional|
+|2  |investree                |www.investree.id         |PT Investree Radhika Jaya               |KEP-45/D.05/2019             |13 Mei 2019     |Konvensional|
+|3  |amartha                  |amartha.com              |PT Amartha Mikro Fintek                 |KEP-46/D.05/2019             |13 Mei 2019     |Konvensional|
+|4  |DOMPET Kilat             |www.dompetkilat.co.id    |PT Indo Fin Tek                         |KEP-47/D.05/2019             |13 Mei 2019     |Konvensional|
+|5  |Boost                    |myboost.co.id            |PT Creative Mobile Adventure            |KEP-48/D.05/2019             |13 Mei 2019     |Konvensional|
+|6  |TOKO MODAL               |www.tokomodal.co.id      |PT Toko Modal Mitra Usaha               |KEP-49/D.05/2019             |24 Mei 2019     |Konvensional|
+|7  |modalku                  |modalku.co.id            |PT Mitrausaha Indonesia Grup            |KEP-81/D.05/2019             |30-Sep-19       |Konvensional|
+|8  |KTA KILAT                |www.pendanaan.com         |PT Pendanaan Teknologi Nusa             |KEP-82/D.05/2019             |30-Sep-19       |Konvensional|
+|9  |Kredit Pintar            |kreditpintar.com          |PT Kredit Pintar Indonesia              |KEP-83/D.05/2019             |30-Sep-19       |Konvensional|
+|10 |Maucash                  |maucash.id                |PT Astra Welab Digital Arta             |KEP-84/D.05/2019             |30-Sep-19       |Konvensional|
+|11 |Finmas                   |www.finmas.co.id         |PT Oriente Mas Sejahtera                |KEP-85/D.05/2019             |30-Sep-19       |Konvensional|
+|12 |KlikA2C                  |www.klika2c.co.id        |PT Aman Cermat Cepat                    |KEP-87/D.05/2019             |30-Sep-19       |Konvensional|
+|13 |Akseleran                |www.akseleran.co.id      |PT Akseleran Keuangan Inklusif Indonesia|KEP-122/D.05/2019            |13 Desember 2019|Konvensional|
+|14 |Ammana.id                |ammana.id                |PT Ammana Fintek Syariah                |KEP-123/D.05/2019            |13 Desember 2019|Syariah     |
+|15 |PinjamanGO               |www.pinjamango.co.id     |PT Dana Pinjaman Inklusif               |KEP-124/D.05/2019            |13 Desember 2019|Konvensional|
+|16 |KoinP2P                  |koinp2p.com              |PT Lunaria Annua Teknologi              |KEP-125/D.05/2019            |13 Desember 2019|Konvensional|
+|17 |pohondana                |pohondana.id              |PT Pohon Dana Indonesia                 |KEP-126/D.05/2019            |13 Desember 2019|Konvensional|
+|18 |MEKAR                    |mekar.id                 |PT Mekar Investama Teknologi            |KEP-127/D.05/2019            |13 Desember 2019|Konvensional|
 |19 |AdaKami                  |www.adakami.id                   |PT Pembiayaan Digital Indonesia         |KEP-128/D.05/2019            |13 Desember 2019|Konvensional|
-|20 |ESTA KAPITAL FINTEK      |https://www.estakapital.co.id    |PT Esta Kapital Fintek                  |KEP-129/D.05/2019            |13 Desember 2019|Konvensional|
-|21 |KREDITPRO                |http://kreditpro.id              |PT Tri Digi Fin                         |KEP-130/D.05/2019            |13 Desember 2019|Konvensional|
-|22 |FINTAG                   |http://fintag.id                 |PT Fintegra Homido Indonesia            |KEP-131/D.05/2019            |13 Desember 2019|Konvensional|
+|20 |ESTA KAPITAL FINTEK      |www.estakapital.co.id    |PT Esta Kapital Fintek                  |KEP-129/D.05/2019            |13 Desember 2019|Konvensional|
+|21 |KREDITPRO                |kreditpro.id              |PT Tri Digi Fin                         |KEP-130/D.05/2019            |13 Desember 2019|Konvensional|
+|22 |FINTAG                   |fintag.id                 |PT Fintegra Homido Indonesia            |KEP-131/D.05/2019            |13 Desember 2019|Konvensional|
 |23 |RUPIAH CEPAT             |www.rupiahcepat.co.id            |PT Kredit Utama Fintech Indonesia       |KEP-132/D.05/2019            |13 Desember 2019|Konvensional|
-|24 |CROWDO                   |https://crowdo.co.id             |PT Mediator Komunitas Indonesia         |KEP-133/D.05/2019            |13 Desember 2019|Konvensional|
+|24 |CROWDO                   |crowdo.co.id             |PT Mediator Komunitas Indonesia         |KEP-133/D.05/2019            |13 Desember 2019|Konvensional|
 |25 |Indodana                 |indodana.id                      |PT Artha Dana Teknologi                 |KEP-15/D.05/2020             |19 Mei 2020     |Konvensional|
 |26 |JULO                     |www.julo.co.id                   |PT Julo Teknologi Finansial             |KEP-16/D.05/2020             |19 Mei 2020     |Konvensional|
 |27 |Pinjamwinwin             |pinjamwinwin.com                 |PT Progo Puncak Group                   |KEP-17/D.05/2020             |19 Mei 2020     |Konvensional|
@@ -41,36 +41,36 @@ Referensi: [ojk.go.id](https://ojk.go.id/id/kanal/iknb/financial-technology/Page
 |30 |Pinjam Modal             |pinjammodal.id                   |PT Finansial Integrasi Teknologi        |KEP-20/D.05/2020             |19 Mei 2020     |Konvensional|
 |31 |ALAMI                    |p2p.alamisharia.co.id            |PT Alami Fintek Sharia                  |KEP-21/D.05/2020             |27 Mei 2020     |Syariah     |
 |32 |AwanTunai                |www.awantunai.co.id              |PT Simplefi Teknologi Indonesia         |KEP-22/D.05/2020             |27 Mei 2020     |Konvensional|
-|33 |Danakini                 |https://danakini.co.id           |PT Dana Kini Indonesia                  |KEP-46/D.05/2020             |16 Oktober 2020 |Konvensional|
-|34 |Singa                    |http://singa.id                  |PT Abadi Sejahtera Finansindo           |KEP-47/D.05/2020             |16 Oktober 2020 |Konvensional|
-|35 |DANAMERDEKA              |http://danamerdeka.co.id         |PT Intekno Raya                         |KEP-48/D.05/2020             |16 Oktober 2020 |Konvensional|
-|36 |EASYCASH                 |https://easycash.id              |PT Indonesia Fintopia Technology        |KEP-49/D.05/2020             |16 Oktober 2020 |Konvensional|
-|37 |PINJAM YUK               |http://www.pinjamyuk.co.id       |PT Kuaikuai Tech Indonesia              |KEP-2/D.05/2021              |6 Januari 2021  |Konvensional|
+|33 |Danakini                 |danakini.co.id           |PT Dana Kini Indonesia                  |KEP-46/D.05/2020             |16 Oktober 2020 |Konvensional|
+|34 |Singa                    |singa.id                  |PT Abadi Sejahtera Finansindo           |KEP-47/D.05/2020             |16 Oktober 2020 |Konvensional|
+|35 |DANAMERDEKA              |danamerdeka.co.id         |PT Intekno Raya                         |KEP-48/D.05/2020             |16 Oktober 2020 |Konvensional|
+|36 |EASYCASH                 |easycash.id              |PT Indonesia Fintopia Technology        |KEP-49/D.05/2020             |16 Oktober 2020 |Konvensional|
+|37 |PINJAM YUK               |www.pinjamyuk.co.id       |PT Kuaikuai Tech Indonesia              |KEP-2/D.05/2021              |6 Januari 2021  |Konvensional|
 |38 |FinPlus                  |www.finplus.co.id                |PT Rezeki Bersama Teknologi             |KEP-3/D.05/2021              |6 Januari 2021  |Konvensional|
-|39 |UangMe                   |http://uangme.id                 |PT Uangme Fintek Indonesia              |KEP-4/D.05/2021              |6 Januari 2021  |Konvensional|
-|40 |PinjamDuit               |http://pinjamduit.co.id          |PT Stanford Teknologi Indonesia         |KEP-5/D.05/2021              |6 Januari 2021  |Konvensional|
-|41 |DANA SYARIAH             |http://danasyariah.id            |PT Dana Syariah Indonesia               |KEP-10/D.05/2021             |23 Februari 2021|Syariah     |
+|39 |UangMe                   |uangme.id                 |PT Uangme Fintek Indonesia              |KEP-4/D.05/2021              |6 Januari 2021  |Konvensional|
+|40 |PinjamDuit               |pinjamduit.co.id          |PT Stanford Teknologi Indonesia         |KEP-5/D.05/2021              |6 Januari 2021  |Konvensional|
+|41 |DANA SYARIAH             |danasyariah.id            |PT Dana Syariah Indonesia               |KEP-10/D.05/2021             |23 Februari 2021|Syariah     |
 |42 |BATUMBU                  |www.batumbu.id                   |PT Berdayakan Usaha Indonesia           |KEP-11/D.05/2021             |23 Februari 2021|Konvensional|
-|43 |Cashcepat                |http://cashcepat.id              |PT Artha Permata Makmur                 |KEP-12/D.05/2021             |23 Februari 2021|Konvensional|
+|43 |Cashcepat                |cashcepat.id              |PT Artha Permata Makmur                 |KEP-12/D.05/2021             |23 Februari 2021|Konvensional|
 |44 |klikUMKM                 |www.klikUMKM.co.id               |PT Pinjaman Kemakmuran Rakyat           |KEP-13/D.05/2021             |23 Februari 2021|Konvensional|
-|45 |Pinjam Gampang           |http://www.kreditplusteknologi.id|PT Kredit Plus Teknologi                |KEP-16/D.05/2021             |16 Maret 2021   |Konvensional|
-|46 |cicil                    |https://www.cicil.co.id          |PT Cicil Solusi Mitra Teknologi         |KEP-20/D.05/2021             |14-Apr-21       |Konvensional|
-|47 |lumbungdana              |http://lumbungdana.co.id         |PT Lumbung Dana Indonesia               |KEP-21/D.05/2021             |14-Apr-21       |Konvensional|
+|45 |Pinjam Gampang           |www.kreditplusteknologi.id|PT Kredit Plus Teknologi                |KEP-16/D.05/2021             |16 Maret 2021   |Konvensional|
+|46 |cicil                    |www.cicil.co.id          |PT Cicil Solusi Mitra Teknologi         |KEP-20/D.05/2021             |14-Apr-21       |Konvensional|
+|47 |lumbungdana              |lumbungdana.co.id         |PT Lumbung Dana Indonesia               |KEP-21/D.05/2021             |14-Apr-21       |Konvensional|
 |48 |360 KREDI                |www.360kredi.id                  |PT Inovasi Terdepan Nusantara           |KEP-22/D.05/2021             |14-Apr-21       |Konvensional|
 |49 |Dhanapala                |www.dhanapala.id                 |PT Semangat Gotong Royong               |KEP-23/D.05/2021             |14-Apr-21       |Konvensional|
 |50 |Kredinesia               |www.kredinesia.id                |PT Kreditku Teknologi Indonesia         |KEP-25/D.05/2021             |21-Apr-21       |Konvensional|
-|51 |Pintek                   |http://pintek.id                 |PT Pinduit Teknologi Indonesia          |KEP-26/D.05/2021             |21-Apr-21       |Konvensional|
-|52 |ModalRakyat              |http://modalrakyat.id            |PT Modal Rakyat Indonesia               |KEP-27/D.05/2021             |21-Apr-21       |Konvensional|
+|51 |Pintek                   |pintek.id                 |PT Pinduit Teknologi Indonesia          |KEP-26/D.05/2021             |21-Apr-21       |Konvensional|
+|52 |ModalRakyat              |modalrakyat.id            |PT Modal Rakyat Indonesia               |KEP-27/D.05/2021             |21-Apr-21       |Konvensional|
 |53 |SOLUSIKU                 |www.solusi-ku.id                 |PT Anugerah Digital Indonesia           |KEP-28/D.05/2021             |21-Apr-21       |Konvensional|
 |54 |Cairin                   |www.cairin.id                    |PT Idana Solusi Sejahtera               |KEP-29/D.05/2021             |21-Apr-21       |Konvensional|
-|55 |TrustIQ                  |http://trustiq.id                |PT Trust Teknologi Finansial            |KEP-30/D.05/2021             |21-Apr-21       |Konvensional|
+|55 |TrustIQ                  |trustiq.id                |PT Trust Teknologi Finansial            |KEP-30/D.05/2021             |21-Apr-21       |Konvensional|
 |56 |KLIK KAMI                |www.klikkami.co.id               |PT Harapan Fintech Indonesia            |KEP-31/D.05/2021             |21-Apr-21       |Konvensional|
 |57 |Duha SYARIAH             |www.duhasyariah.com              |PT Duha Madani Syariah                  |KEP-32/D.05/2021             |21-Apr-21       |Syariah     |
-|58 |Invoila                  |http://invoila.co.id             |PT Sol Mitra Fintec                     |KEP-39/D.05/2021             |11 Mei 2021     |Konvensional|
-|59 |Sanders One Stop Solution|http://sanders.co.id             |PT Satustop Finansial Solusi            |KEP-40/D.05/2021             |11 Mei 2021     |Konvensional|
+|58 |Invoila                  |invoila.co.id             |PT Sol Mitra Fintec                     |KEP-39/D.05/2021             |11 Mei 2021     |Konvensional|
+|59 |Sanders One Stop Solution|sanders.co.id             |PT Satustop Finansial Solusi            |KEP-40/D.05/2021             |11 Mei 2021     |Konvensional|
 |60 |DanaBagus                |www.danabagus.id                 |PT Dana Bagus Indonesia                 |KEP-41/D.05/2021             |11 Mei 2021     |Konvensional|
 |61 |UKU                      |ukuindo.com                      |PT Teknologi Merlin Sejahtera           |KEP-46/D.05/2021             |2 Juni 2021     |Konvensional|
-|62 |KREDITO                  |https://kredito.id               |PT Fintek Digital Indonesia             |KEP-47/D.05/2021             |2 Juni 2021     |Konvensional|
+|62 |KREDITO                  |kredito.id               |PT Fintek Digital Indonesia             |KEP-47/D.05/2021             |2 Juni 2021     |Konvensional|
 |63 |AdaPundi                 |www.adapundi.com                 |PT Info Tekno Siaga                     |KEP-48/D.05/2021             |2 Juni 2021     |Konvensional|
 |64 |Lentera Dana Nusantara   |www.lenteradana.co.id/lender/    |PT Lentera Dana Nusantara               |KEP-49/D.05/2021             |2 Juni 2021     |Konvensional|
 |65 |Modal Nasional           |www.modalnasional.co.id          |PT Solusi Teknologi Finansial           |KEP-50/D.05/2021             |2 Juni 2021     |Konvensional|
@@ -84,7 +84,7 @@ Referensi: [ojk.go.id](https://ojk.go.id/id/kanal/iknb/financial-technology/Page
 |73 |Ivoji                    |www.ivoji.id                     |PT Finansia Aira Teknologi              |KEP-73/D.05/2021             |19 Agustus 2021 |Konvensional|
 |74 |Indofund.id              |indofund.id                      |PT Bursa Akselerasi Indonesia           |KEP-74/D.05/2021             |19 Agustus 2021 |Konvensional|
 |75 |iGrow                    |igrow.asia                       |PT LinkAja Modalin Nusantara            |KEP-75/D.05/2021             |19 Agustus 2021 |Konvensional|
-|76 |Danai.id                 |http://danai.id                  |PT Adiwisista Finansial Teknologi       |KEP-76/D.05/2021             |19 Agustus 2021 |Konvensional|
+|76 |Danai.id                 |danai.id                  |PT Adiwisista Finansial Teknologi       |KEP-76/D.05/2021             |19 Agustus 2021 |Konvensional|
 |77 |DUMI                     |minjem.com                       |PT Fidac Inovasi Teknologi              |KEP-78/D.05/2021             |24 Agustus 2021 |Konvensional|
 |78 |LAHAN SIKAM              |www.lahansikam.co.id             |PT Lampung Berkah Finansial Teknologi   |KEP-79/D.05/2021             |24 Agustus 2021 |Konvensional|
 |79 |qazwa.id                 |qazwa.id                         |PT Qazwa Mitra Hasanah                  |KEP-80/D.05/2021             |24 Agustus 2021 |Syariah     |
@@ -108,4 +108,4 @@ Referensi: [ojk.go.id](https://ojk.go.id/id/kanal/iknb/financial-technology/Page
 |97 |SAMIR                    |www.samir.co.id                  |PT Sahabat Mikro Fintek                 |KEP-105/D.05/2021            |17-Sep-21       |Konvensional|
 |98 |UATAS                    |www.uatas.id                     |PT Plus Ultra Abadi                     |KEP-106/D.05/2021            |17-Sep-21       |Konvensional|
 |99 |Asetku                   |www.asetku.co.id                 |PT Pintar Inovasi Digital               |KEP-123/D.05/2021            |23 Desember 2021|Konvensional|
-|100|Findaya                  |https://www.findaya.co.id        |PT Mapan Global Reksa                   |KEP-124/D.05/2021            |23 Desember 2021|Konvensional|
+|100|Findaya                  |www.findaya.co.id        |PT Mapan Global Reksa                   |KEP-124/D.05/2021            |23 Desember 2021|Konvensional|
