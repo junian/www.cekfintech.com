@@ -1,8 +1,6 @@
----
-title: Danamas
----
+# Danamas
 
-**Nama**: Danamas (PT Pasar Dana Pinjaman)
+**Nama**: PT Pasar Dana Pinjaman
 
 **Website**: [p2p.danamas.co.id](https://p2p.danamas.co.id)
 
