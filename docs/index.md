@@ -1,9 +1,11 @@
 ---
 title: Cek Fintech
-description: Penyelenggara Fintech Lending Berizin di OJK
+description: Penyelenggara Fintech Lending Berizin di OJK per 31 Mei 2024
 ---
 
-## Penyelenggara Fintech Lending Berizin di OJK.
+## Penyelenggara Fintech Lending Berizin di OJK per 31 Mei 2024
+
+Referensi: [ojk.go.id](https://ojk.go.id/id/kanal/iknb/financial-technology/Pages/Penyelenggara-Fintech-Lending-Berizin-di-OJK-per-31-Mei-2024.aspx)
 
 |No |Nama                     |Website                          |Nama Perusahaan                         |Surat Tanda Berizin/Terdaftar|Tanggal         |Jenis Usaha |
 |---|-------------------------|---------------------------------|----------------------------------------|-----------------------------|----------------|------------|
@@ -24,7 +26,7 @@ description: Penyelenggara Fintech Lending Berizin di OJK
 |15 |PinjamanGO               |https://www.pinjamango.co.id     |PT Dana Pinjaman Inklusif               |KEP-124/D.05/2019            |13 Desember 2019|Konvensional|
 |16 |KoinP2P                  |https://koinp2p.com              |PT Lunaria Annua Teknologi              |KEP-125/D.05/2019            |13 Desember 2019|Konvensional|
 |17 |pohondana                |http://pohondana.id              |PT Pohon Dana Indonesia                 |KEP-126/D.05/2019            |13 Desember 2019|Konvensional|
-|18 |MEKAR                    |https://mekar.id                 |PT Mekar Investama Sampoerna            |KEP-127/D.05/2019            |13 Desember 2019|Konvensional|
+|18 |MEKAR                    |https://mekar.id                 |PT Mekar Investama Teknologi            |KEP-127/D.05/2019            |13 Desember 2019|Konvensional|
 |19 |AdaKami                  |www.adakami.id                   |PT Pembiayaan Digital Indonesia         |KEP-128/D.05/2019            |13 Desember 2019|Konvensional|
 |20 |ESTA KAPITAL FINTEK      |https://www.estakapital.co.id    |PT Esta Kapital Fintek                  |KEP-129/D.05/2019            |13 Desember 2019|Konvensional|
 |21 |KREDITPRO                |http://kreditpro.id              |PT Tri Digi Fin                         |KEP-130/D.05/2019            |13 Desember 2019|Konvensional|
@@ -74,37 +76,36 @@ description: Penyelenggara Fintech Lending Berizin di OJK
 |65 |Modal Nasional           |www.modalnasional.co.id          |PT Solusi Teknologi Finansial           |KEP-50/D.05/2021             |2 Juni 2021     |Konvensional|
 |66 |Komunal                  |www.komunal.co.id                |PT Komunal Finansial Indonesia          |KEP-51/D.05/2021             |2 Juni 2021     |Konvensional|
 |67 |Restock.ID               |www.restock.id                   |PT Cerita Teknologi Indonesia           |KEP-52/D.05/2021             |2 Juni 2021     |Konvensional|
-|68 |TaniFund                 |www.tanifund.com                 |PT Tani Fund Madani Indonesia           |KEP-64/D.05/2021             |2 Agustus 2021  |Konvensional|
-|69 |Ringan                   |www.ringan.co.id                 |PT Ringan Teknologi Indonesia           |KEP-65/D.05/2021             |2 Agustus 2021  |Konvensional|
-|70 |Avantee                  |www.avantee.co.id                |PT Grha Dana Bersama                    |KEP-66/D.05/2021             |2 Agustus 2021  |Konvensional|
-|71 |Gradana                  |gradana.co.id                    |PT Gradana Teknoruci Indonesia          |KEP-67/D.05/2021             |2 Agustus 2021  |Konvensional|
-|72 |Danacita                 |www.danacita.co.id               |PT Inclusive Finance Group              |KEP-68/D.05/2021             |2 Agustus 2021  |Konvensional|
-|73 |IKI Modal                |www.ikimodal.com                 |PT IKI Karunia Indonesia                |KEP-69/D.05/2021             |2 Agustus 2021  |Konvensional|
-|74 |Ivoji                    |www.ivoji.id                     |PT Finansia Aira Teknologi              |KEP-73/D.05/2021             |19 Agustus 2021 |Konvensional|
-|75 |Indofund.id              |indofund.id                      |PT Bursa Akselerasi Indonesia           |KEP-74/D.05/2021             |19 Agustus 2021 |Konvensional|
-|76 |iGrow                    |igrow.asia                       |PT LinkAja Modalin Nusantara            |KEP-75/D.05/2021             |19 Agustus 2021 |Konvensional|
-|77 |Danai.id                 |http://danai.id                  |PT Adiwisista Finansial Teknologi       |KEP-76/D.05/2021             |19 Agustus 2021 |Konvensional|
-|78 |DUMI                     |minjem.com                       |PT Fidac Inovasi Teknologi              |KEP-78/D.05/2021             |24 Agustus 2021 |Konvensional|
-|79 |LAHAN SIKAM              |www.lahansikam.co.id             |PT Lampung Berkah Finansial Teknologi   |KEP-79/D.05/2021             |24 Agustus 2021 |Konvensional|
-|80 |qazwa.id                 |qazwa.id                         |PT Qazwa Mitra Hasanah                  |KEP-80/D.05/2021             |24 Agustus 2021 |Syariah     |
-|81 |KrediFazz                |www.kredifazz.id                 |PT FinAccel Digital Indonesia           |KEP-81/D.05/2021             |24 Agustus 2021 |Konvensional|
-|82 |Doeku                    |doeku.id                         |PT Doeku Peduli Indonesia               |KEP-82/D.05/2021             |24 Agustus 2021 |Konvensional|
-|83 |Aktivaku                 |aktivaku.com                     |PT Aktivaku Investama Teknologi         |KEP-83/D.05/2021             |24 Agustus 2021 |Konvensional|
-|84 |Danain                   |www.danain.co.id                 |PT Mulia Inovasi Digital                |KEP-84/D.05/2021             |24 Agustus 2021 |Konvensional|
-|85 |Indosaku                 |indosaku.id                      |PT Sens Teknologi Indonesia             |KEP-86/D.05/2021             |31 Agustus 2021 |Konvensional|
-|86 |Jembatan Emas            |www.jembatanemas.id              |PT Akur Dana Abadi                      |KEP-87/D.05/2021             |31 Agustus 2021 |Konvensional|
-|87 |EDUFUND                  |www.edufund.co.id                |PT Fintech Bina Bangsa                  |KEP-88/D.05/2021             |08-Sep-21       |Konvensional|
-|88 |GandengTangan            |www.gandengtangan.co.id          |PT Kreasi Anak Indonesia                |KEP-89/D.05/2021             |08-Sep-21       |Konvensional|
-|89 |PAPITUPI SYARIAH         |www.papitupisyariah.com          |PT Piranti Alphabet Perkasa             |KEP-90/D.05/2021             |08-Sep-21       |Syariah     |
-|90 |BantuSaku                |bantusaku.id                     |PT Smartec Teknologi Indonesia          |KEP-91/D.05/2021             |08-Sep-21       |Konvensional|
-|91 |danabijak                |danabijak.com                    |PT Digital Micro Indonesia              |KEP-92/D.05/2021             |08-Sep-21       |Konvensional|
-|92 |AdaModal                 |www.adamodal.co.id               |PT Solid Fintek Indonesia               |KEP-94/D.05/2021             |08-Sep-21       |Konvensional|
-|93 |SamaKita                 |samakita.co.id                   |PT Sejahtera Sama Kita                  |KEP-95/D.05/2021             |08-Sep-21       |Konvensional|
-|94 |KawanCicil               |kawancicil.co.id                 |PT Kawan Cicil Teknologi Utama          |KEP-101/D.05/2021            |17-Sep-21       |Konvensional|
-|95 |CROWDE                   |Crowde.co                        |PT Crowde Membangun Bangsa              |KEP-102/D.05/2021            |17-Sep-21       |Konvensional|
-|96 |KlikCair                 |klikcair.com                     |PT Klikcair Magga Jaya                  |KEP-103/D.05/2021            |17-Sep-21       |Konvensional|
-|97 |ETHIS                    |ethis.co.id                      |PT Ethis Fintek Indonesia               |KEP-104/D.05/2021            |17-Sep-21       |Syariah     |
-|98 |SAMIR                    |www.samir.co.id                  |PT Sahabat Mikro Fintek                 |KEP-105/D.05/2021            |17-Sep-21       |Konvensional|
-|99 |UATAS                    |www.uatas.id                     |PT Plus Ultra Abadi                     |KEP-106/D.05/2021            |17-Sep-21       |Konvensional|
-|100|Asetku                   |www.asetku.co.id                 |PT Pintar Inovasi Digital               |KEP-123/D.05/2021            |23 Desember 2021|Konvensional|
-|101|Findaya                  |https://www.findaya.co.id        |PT Mapan Global Reksa                   |KEP-124/D.05/2021            |23 Desember 2021|Konvensional|
+|68 |Ringan                   |www.ringan.co.id                 |PT Ringan Teknologi Indonesia           |KEP-65/D.05/2021             |2 Agustus 2021  |Konvensional|
+|69 |Avantee                  |www.avantee.co.id                |PT Grha Dana Bersama                    |KEP-66/D.05/2021             |2 Agustus 2021  |Konvensional|
+|70 |Gradana                  |gradana.co.id                    |PT Gradana Teknoruci Indonesia          |KEP-67/D.05/2021             |2 Agustus 2021  |Konvensional|
+|71 |Danacita                 |www.danacita.co.id               |PT Inclusive Finance Group              |KEP-68/D.05/2021             |2 Agustus 2021  |Konvensional|
+|72 |IKI Modal                |www.ikimodal.com                 |PT IKI Karunia Indonesia                |KEP-69/D.05/2021             |2 Agustus 2021  |Konvensional|
+|73 |Ivoji                    |www.ivoji.id                     |PT Finansia Aira Teknologi              |KEP-73/D.05/2021             |19 Agustus 2021 |Konvensional|
+|74 |Indofund.id              |indofund.id                      |PT Bursa Akselerasi Indonesia           |KEP-74/D.05/2021             |19 Agustus 2021 |Konvensional|
+|75 |iGrow                    |igrow.asia                       |PT LinkAja Modalin Nusantara            |KEP-75/D.05/2021             |19 Agustus 2021 |Konvensional|
+|76 |Danai.id                 |http://danai.id                  |PT Adiwisista Finansial Teknologi       |KEP-76/D.05/2021             |19 Agustus 2021 |Konvensional|
+|77 |DUMI                     |minjem.com                       |PT Fidac Inovasi Teknologi              |KEP-78/D.05/2021             |24 Agustus 2021 |Konvensional|
+|78 |LAHAN SIKAM              |www.lahansikam.co.id             |PT Lampung Berkah Finansial Teknologi   |KEP-79/D.05/2021             |24 Agustus 2021 |Konvensional|
+|79 |qazwa.id                 |qazwa.id                         |PT Qazwa Mitra Hasanah                  |KEP-80/D.05/2021             |24 Agustus 2021 |Syariah     |
+|80 |KrediFazz                |www.kredifazz.id                 |PT KrediFazz Digital Indonesia          |KEP-81/D.05/2021             |24 Agustus 2021 |Konvensional|
+|81 |Doeku                    |doeku.id                         |PT Doeku Peduli Indonesia               |KEP-82/D.05/2021             |24 Agustus 2021 |Konvensional|
+|82 |Aktivaku                 |aktivaku.com                     |PT Aktivaku Investama Teknologi         |KEP-83/D.05/2021             |24 Agustus 2021 |Konvensional|
+|83 |Danain                   |www.danain.co.id                 |PT Mulia Inovasi Digital                |KEP-84/D.05/2021             |24 Agustus 2021 |Konvensional|
+|84 |Indosaku                 |indosaku.id                      |PT Sens Teknologi Indonesia             |KEP-86/D.05/2021             |31 Agustus 2021 |Konvensional|
+|85 |Jembatan Emas            |www.jembatanemas.id              |PT Akur Dana Abadi                      |KEP-87/D.05/2021             |31 Agustus 2021 |Konvensional|
+|86 |EDUFUND                  |www.edufund.co.id                |PT Fintech Bina Bangsa                  |KEP-88/D.05/2021             |08-Sep-21       |Konvensional|
+|87 |GandengTangan            |www.gandengtangan.co.id          |PT Kreasi Anak Indonesia                |KEP-89/D.05/2021             |08-Sep-21       |Konvensional|
+|88 |PAPITUPI SYARIAH         |www.papitupisyariah.com          |PT Piranti Alphabet Perkasa             |KEP-90/D.05/2021             |08-Sep-21       |Syariah     |
+|89 |BantuSaku                |bantusaku.id                     |PT Smartec Teknologi Indonesia          |KEP-91/D.05/2021             |08-Sep-21       |Konvensional|
+|90 |danabijak                |danabijak.com                    |PT Digital Micro Indonesia              |KEP-92/D.05/2021             |08-Sep-21       |Konvensional|
+|91 |AdaModal                 |www.adamodal.co.id               |PT Solid Fintek Indonesia               |KEP-94/D.05/2021             |08-Sep-21       |Konvensional|
+|92 |SamaKita                 |samakita.co.id                   |PT Sejahtera Sama Kita                  |KEP-95/D.05/2021             |08-Sep-21       |Konvensional|
+|93 |KawanCicil               |kawancicil.co.id                 |PT Kawan Cicil Teknologi Utama          |KEP-101/D.05/2021            |17-Sep-21       |Konvensional|
+|94 |CROWDE                   |Crowde.co                        |PT Crowde Membangun Bangsa              |KEP-102/D.05/2021            |17-Sep-21       |Konvensional|
+|95 |KlikCair                 |klikcair.com                     |PT Klikcair Magga Jaya                  |KEP-103/D.05/2021            |17-Sep-21       |Konvensional|
+|96 |ETHIS                    |ethis.co.id                      |PT Ethis Fintek Indonesia               |KEP-104/D.05/2021            |17-Sep-21       |Syariah     |
+|97 |SAMIR                    |www.samir.co.id                  |PT Sahabat Mikro Fintek                 |KEP-105/D.05/2021            |17-Sep-21       |Konvensional|
+|98 |UATAS                    |www.uatas.id                     |PT Plus Ultra Abadi                     |KEP-106/D.05/2021            |17-Sep-21       |Konvensional|
+|99 |Asetku                   |www.asetku.co.id                 |PT Pintar Inovasi Digital               |KEP-123/D.05/2021            |23 Desember 2021|Konvensional|
+|100|Findaya                  |https://www.findaya.co.id        |PT Mapan Global Reksa                   |KEP-124/D.05/2021            |23 Desember 2021|Konvensional|
