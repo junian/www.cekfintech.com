@@ -10,9 +10,9 @@ Referensi: [ojk.go.id](https://ojk.go.id/id/kanal/iknb/financial-technology/Page
 |No |Nama                     |Website                          |Nama Perusahaan                         |Surat Tanda Berizin/Terdaftar|Tanggal         |Jenis Usaha |
 |---|-------------------------|---------------------------------|----------------------------------------|-----------------------------|----------------|------------|
 |1  |[Danamas](./danamas/)    |p2p.danamas.co.id        |PT Pasar Dana Pinjaman                  |KEP-49/D.05/2017             |06 Juli 2017    |Konvensional|
-|2  |investree                |investree.id         |PT Investree Radhika Jaya               |KEP-45/D.05/2019             |13 Mei 2019     |Konvensional|
-|3  |amartha                  |amartha.com              |PT Amartha Mikro Fintek                 |KEP-46/D.05/2019             |13 Mei 2019     |Konvensional|
-|4  |DOMPET Kilat             |dompetkilat.co.id    |PT Indo Fin Tek                         |KEP-47/D.05/2019             |13 Mei 2019     |Konvensional|
+|2  |[investree](./investree/)                |investree.id         |PT Investree Radhika Jaya               |KEP-45/D.05/2019             |13 Mei 2019     |Konvensional|
+|3  |[amartha](./amartha/)                  |amartha.com              |PT Amartha Mikro Fintek                 |KEP-46/D.05/2019             |13 Mei 2019     |Konvensional|
+|4  |[DOMPET Kilat](./dompet-kilat/             |dompetkilat.co.id    |PT Indo Fin Tek                         |KEP-47/D.05/2019             |13 Mei 2019     |Konvensional|
 |5  |Boost                    |myboost.co.id            |PT Creative Mobile Adventure            |KEP-48/D.05/2019             |13 Mei 2019     |Konvensional|
 |6  |TOKO MODAL               |tokomodal.co.id      |PT Toko Modal Mitra Usaha               |KEP-49/D.05/2019             |24 Mei 2019     |Konvensional|
 |7  |modalku                  |modalku.co.id            |PT Mitrausaha Indonesia Grup            |KEP-81/D.05/2019             |30-Sep-19       |Konvensional|
