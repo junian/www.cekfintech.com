@@ -3,7 +3,7 @@ title: Cek Fintech
 description: Penyelenggara Fintech Lending Berizin di OJK per 31 Mei 2024
 ---
 
-> 💰 This domain name [**CekFintech.com**](https://dan.com/buy-domain/cekfintech.com) is for [**SALE**](https://dan.com/buy-domain/cekfintech.com)!
+> 💰 The domain name [**CekFintech.com**](https://dan.com/buy-domain/cekfintech.com) is for [**SALE**](https://dan.com/buy-domain/cekfintech.com)!
 
 ## Penyelenggara Fintech Lending Berizin di OJK per 31 Mei 2024
 
