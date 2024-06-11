@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body blockquote {
+    padding: 16px;
+    color: #000000;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    border-left: 6px solid rgba(84, 174, 255, 0.4);
+    border-top-color: rgba(84, 174, 255, 0.4);
+    border-right-color: rgba(84, 174, 255, 0.4);
+    border-bottom-color: rgba(84, 174, 255, 0.4);
+    background-color: rgb(221, 244, 255);
+}
